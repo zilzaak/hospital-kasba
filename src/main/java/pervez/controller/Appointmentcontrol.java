@@ -310,7 +310,7 @@ public void sendmail(Patient st , Doctor dr,ChooseAppointment ca) {
 		Session session = Session.getInstance(prop, 
 				new javax.mail.Authenticator() {
 					protected PasswordAuthentication getPasswordAuthentication() {
-						return new PasswordAuthentication(from,"aslamhex66");
+						return new PasswordAuthentication(from,"aslamhex666");
 					                }
 					});
 		            
